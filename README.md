@@ -1,4 +1,4 @@
-![output1](https://github.com/Darkwebnew/softweb/assets/143114486/369b8896-2c86-465f-ab9c-04ec13a2f58b)# Ex.07 Software Product Company Website
+# Ex.07 Software Product Company Website
 ## Date:04/11/2023
 
 ## AIM:
