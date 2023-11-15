@@ -505,8 +505,8 @@ window.addEventListener('scroll',change);
 ## OUTPUT:
 ![Screenshot (111)](https://github.com/surothaaman/softweb/assets/133313653/ca15c63b-25b1-47f8-807e-ac6f2497ad4d)
 ![Screenshot (101)](https://github.com/surothaaman/softweb/assets/133313653/59a891dc-8b33-409c-af5b-f7eff45dad49)
-![Screenshot (97)](https://github.com/surothaaman/softweb/assets/133313653/fc50861e-3c2b-![Screenshot (98)](https://github.com/surothaaman/softweb/assets/133313653/4afbd005-230f-4691-84f5-bbcbbfbf3374)
-4164-a2da-d8ac8b3fb010)
+![Screenshot (97)](https://github.com/surothaaman/softweb/assets/133313653/92046e45-f3ef-4109-ad4b-2750531eeb0d)
+
 ![Screenshot (99)](https://github.com/surothaaman/softweb/assets/133313653/a4dcad5e-ade2-44da-918c-c888168f4b56)
 ![Screenshot (100)](https://github.com/surothaaman/softweb/assets/133313653/d883e5b1-a754-449f-9898-0843fb56216a)
 
